@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,7 @@ After cloning this project
 - Run `npm run dev` to start the development server
 - Open your browser and navigate to `http://localhost:3000`
 -->
+=======
+# agricom_test
+Front end for agricom project for testing purpose
+>>>>>>> f6923e4ac3942239b38c749d7b1d815a58c52a6c
