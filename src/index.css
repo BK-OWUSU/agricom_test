@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Resizable column headers */
+.resizable-th {
+    position: relative;
+  }
+  
+  .resizable-th .resizer {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 6px;
+    height: 100%;
+    cursor: col-resize;
+    user-select: none;
+  }
+  
+  .resizable-th .resizer:hover {
+    background: #ccc;
+  }
